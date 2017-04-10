@@ -1,0 +1,46 @@
+body{
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  color: #333;
+}
+article{
+  box-sizing: border-box;
+  max-width: 980px;
+  padding: 2rem 0;
+  margin: auto; 
+}
+header, section{
+  width: 66.666%;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  font-size: 207%;
+}
+h2{
+  font-size: 141%;
+  margin: 2rem 0 1rem 0;
+}
+table{
+  width: 100%;
+}
+tr:nth-last-child(even){
+  background-color: #f0f0f0; 
+}
+th{
+  font-weight: bold;
+}
+th, td{
+  padding: .5rem 1rem;
+}
+td:first-child{
+  text-align: center;
+}
+a{
+  color: rgb(64, 120, 192);
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}

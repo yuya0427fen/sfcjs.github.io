@@ -1,0 +1,14 @@
+{
+  "name": "sfcjs.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sfcjs/sfcjs.github.io.git",
+  "author": "N. Shimizu <chikoski@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "serve": "http-server docs -p 8080 -c-1"
+  }
+}

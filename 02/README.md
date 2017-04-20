@@ -15,9 +15,9 @@ N.Shimizu (chiko@tom.sfc.keio.ac.jp)
 
 ## 練習問題 1
 
-* [https://github.com/sfcjs/2017s-02/](https://github.com/sfcjs/2017s-02/) をforkして、cloneしよう
+* [https://github.com/sfcjs/attendance/](https://github.com/sfcjs/attendance/) をforkして、cloneしよう
 * cloneしたら以下の作業をしてください：
-  1. `githubのユーザ名.md`という名前のファイルをつくり
+  1. `02/githubのユーザ名.md`という名前のファイルをつくり
   2. 「出席してます」とファイルに記述し
   3. Commitして
   4. Pull requestを送ってください

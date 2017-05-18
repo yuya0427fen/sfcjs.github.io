@@ -140,7 +140,7 @@ console.log(str === num); // false
 
 ~~~javascript
 function action(oppornent){
-  cost list = cards();
+  const list = cards();
   console.log(list);
   return 1;
 }

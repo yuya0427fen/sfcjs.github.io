@@ -130,6 +130,19 @@ function action(oppornent) {
 
 ---
 
+## 練習問題5
+
+~~~javascript
+let randomValue = Math.random();
+let randomInt = Math.floor(randomValue * 100);
+~~~
+
+* ランダムに手を決める戦略`randomCard`を追加してください
+* これをデフォルトの戦略に設定してください
+* `Math.random`を呼ぶと、0.0 - 1.0の乱数を取得できます
+
+---
+
 ## 配列：値を並べたリスト
 
 ~~~javascript
@@ -162,7 +175,7 @@ function action(oppornent){
 
 ---
 
-## 練習問題5
+## 練習問題6
 
 * `matches`を使わなくても試合数がわかります
 * ヒント：
@@ -190,13 +203,19 @@ function action(oppornent){
 
 ---
 
-## 練習問題6
+## 練習問題7
 
-* 帰ってきた順番に出すマンに勝ってください
+* 帰ってきた順番に出すマンに勝つ戦略を追加してください
 
 ---
 
-## 練習問題7
+## 練習問題8
+
+* ふぃずばずマンに勝つ戦略を追加してください
+
+---
+
+## 練習問題9
 
 * `lecture05`を`master`へマージしてください
 * マージしたらpull requestを送ってください

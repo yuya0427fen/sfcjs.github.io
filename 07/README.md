@@ -106,8 +106,8 @@ d = false || false; // false
 ~~~
 
 * || 演算子を用いて記述します 
-* 右辺と左辺の評価値がともに false の時のみ false となります
-* それ以外の場合はの評価値は true となります
+* 右辺と左辺の評価値がともにfalseの時、falseとなります
+* それ以外の場合はの評価値はtrueとなります
 
 ----
 
@@ -115,15 +115,15 @@ d = false || false; // false
 
 ~~~javascript
 let a, b, c, d;
-a = true || true; // true
-b = true || false; // false
-c = false || true; // false
-d = false || false; // false
+a = true && true; // true
+b = true && false; // false
+c = false && true; // false
+d = false && false; // false
 ~~~
 
 * && 演算子を用いて記述します 
-* 右辺と左辺の評価値がともに true の時のみ true となります
-* それ以外の場合はの評価値は false となります
+* 右辺と左辺の評価値がともにtrueの時、trueとなります
+* それ以外の場合はの評価値はfalseとなります
 
 ----
 
@@ -191,7 +191,7 @@ if (lastCard == GU && beforelastCard == CHOKI ||
 
 ---
 
-## 繰り返し：条件の成立する間、同じ処理を繰り返す
+## 繰り返し
 
 ~~~javascript 
 let counter = 0;
@@ -200,6 +200,8 @@ while(counter < 10){
   counter = counter + 1;
 }
 ~~~
+
+* 条件の成立する間、同じ処理を繰り返す
 
 ----
 

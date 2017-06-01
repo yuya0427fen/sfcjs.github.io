@@ -1,4 +1,4 @@
-# 情報基礎2 #06
+# 情報基礎2 #07
 
 N.Shimizu (chiko@tom.sfc.keio.ac.jp)
 

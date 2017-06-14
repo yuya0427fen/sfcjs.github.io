@@ -170,7 +170,7 @@ console.log(player1.name); // "Player 1"
   * `img`要素を作成すれば、画像を表示できます
   * `src`属性に表示する画像のURLを設定します
 
---- 
+---
 
 ## 課題
 

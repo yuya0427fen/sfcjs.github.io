@@ -169,3 +169,11 @@ console.log(player1.name); // "Player 1"
 * ヒント：
   * `img`要素を作成すれば、画像を表示できます
   * `src`属性に表示する画像のURLを設定します
+
+--- 
+
+## 課題
+
+* 最終発表のグループ（2名）を作成してください
+* 作成したら、[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLScTpnA0Z3emL0--sGCC8AuyFbkg0z_OzFuMRGwoSStoPzd7cw/viewform?usp=sf_link)へ記入してください
+* フォームへの記入は、それぞれ行ってください
